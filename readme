@@ -1,0 +1,6 @@
+C:\_workspace\skripsi\results\sinte\project\backend_fastapi\venv_backend\Scripts\activate
+
+
+C:\_workspace\skripsi\results\sinte\folder-aman\project_helm_detection\backend_fastapi
+
+uvicorn main:app --reload --port 9000

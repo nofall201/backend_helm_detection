@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+sqlmodel
+ultralytics
+opencv-python-headless
+pillow
+numpy
